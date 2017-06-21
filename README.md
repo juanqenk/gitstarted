@@ -4,7 +4,7 @@
 
 > Git started es un tutorial corto para la iniciación en el uso de git. Pretende acercar el concepto de control de versiones a quién desconozca su función.  
 
-> Se abordarán los siguientes puntos:  
+Se abordarán los siguientes puntos:  
 
 	* Instalación en linux  
 	* Configuración inicial  
